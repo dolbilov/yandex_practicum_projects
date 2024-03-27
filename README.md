@@ -8,3 +8,4 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Big cities music 🎸](big_cities_music) | Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on time and day of the week. | *pandas* |
 |[Borrowers reliability 🏦](borrowers_reliability) | Research of borrowers reliability depending on several factors such as number of children, income level, borrow purpose and family status. | *pandas, seaborn, matplotlib* |
+|[Housing Ads Analysis 🏠](housing_ads_analysis)| Analysis of the sale price of real estate depending on various factors such as floor number, number of rooms and many others. | *pandas, seaborn, matplotlib* |

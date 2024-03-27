@@ -1,6 +1,9 @@
 # Exclude datasets due to copyright
 /big_cities_music/data
 /borrowers_reliability/data
+/housing_ads_analysis/data
+
+/utils/__pycache__
 
 # DataSpell service files
 /**/.idea/
