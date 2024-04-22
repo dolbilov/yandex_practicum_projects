@@ -1,8 +1,8 @@
 # Exclude datasets due to copyright
-/big_cities_music/data
-/borrowers_reliability/data
-/housing_ads_analysis/data
-/russian_films/data
+/01_big_cities_music/data
+/02_borrowers_reliability/data
+/03_housing_ads_analysis/data
+/04_russian_films/data
 
 /utils/__pycache__
 
