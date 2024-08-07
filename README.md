@@ -4,7 +4,7 @@
 
 ## This projects were completed during education at Yandex.Practicum
 
-| Project name | Description | Libraries and methods used | 
+| Project name | Description | Libraries and methods used |
 | :---------------------- | :---------------------- | :---------------------- |
 | [Big cities music&#160;🎸](01_big_cities_music) | Comparison of preferences of Yandex.Music users from Moscow and St. Petersburg depending on time and day of the week. | *pandas* |
 |[Borrowers reliability&#160;🏦](02_borrowers_reliability) | Research of borrowers reliability depending on several factors such as number of children, income level, borrow purpose and family status. | *..., seaborn, matplotlib* |
@@ -14,3 +14,4 @@
 |[Cows efficiency prediction&#160;🐄](06_cows_efficiency_prediction)|Research of cows to predict milk yield and its taste|*..., sklearn, phik*|
 |[Clients analysis&#160;👥](07_clients_analysis)|Users research to predict the probability of a decrease in consumer activity|*..., shap*|
 |[HR analytics&#160;👨‍💻](08_hr_analytics)|Research of the influence of various factors on the level of job satisfaction and the probability of dismissal of an employee|*..., imblearn*|
+|[Oil search&#160;⛽](09_oil_search)|Analysis of regions to choose the best for oil production|*...*|
