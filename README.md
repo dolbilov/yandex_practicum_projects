@@ -15,3 +15,5 @@
 |[Clients analysis&#160;👥](07_clients_analysis)|Users research to predict the probability of a decrease in consumer activity|*..., shap*|
 |[HR analytics&#160;👨‍💻](08_hr_analytics)|Research of the influence of various factors on the level of job satisfaction and the probability of dismissal of an employee|*..., imblearn*|
 |[Oil search&#160;⛽](09_oil_search)|Analysis of regions to choose the best for oil production|*...*|
+|[Kaggle startups&#160;🤑](10_kaggle_startups)|Research startups to predict whether they will close|*...*|
+|[PySpark housing&#160;🏠](11_pyspark_housing)|Predicting the price of houses based on their location|*..., pyspark*|
