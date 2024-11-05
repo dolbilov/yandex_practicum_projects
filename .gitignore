@@ -10,6 +10,7 @@
 /09_oil_search/data
 /10_kaggle_startups/data
 /11_pyspark_housing/data
+/12_car_prices_prediction/data
 
 /utils/__pycache__
 
