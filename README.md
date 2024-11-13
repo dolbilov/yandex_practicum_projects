@@ -18,3 +18,4 @@
 |[Kaggle startups&#160;🤑](10_kaggle_startups)|Research startups to predict whether they will close|*..., catboost*|
 |[PySpark housing&#160;🏠](11_pyspark_housing)|Predicting the price of houses based on their location|*..., pyspark*|
 |[Car price prediction&#160;🚗](12_car_prices_prediction)|Predicting the prices of cars based on their characteristics|*..., lightgbm*|
+|[Kaggle Marketing&#160;🛍️](13_kaggle_marketing)|Predicting users who are ready to make a purchase in the near future based on their purchase history and the company's promotional newsletters|*...*|
