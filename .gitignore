@@ -13,6 +13,7 @@
 /12_car_prices_prediction/data
 /13_kaggle_marketing/data
 
+**/catboost_info/
 
 # DataSpell service files
 /**/.idea/
