@@ -13,7 +13,6 @@
 /12_car_prices_prediction/data
 /13_kaggle_marketing/data
 
-/utils/__pycache__
 
 # DataSpell service files
 /**/.idea/
