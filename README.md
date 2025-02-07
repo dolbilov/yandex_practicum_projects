@@ -20,3 +20,4 @@
 |[Car price prediction&#160;🚗](12_car_prices_prediction)|Predicting the prices of cars based on their characteristics|*..., lightgbm*|
 |[Kaggle Marketing&#160;🛍️](13_kaggle_marketing)|Predicting users who are ready to make a purchase in the near future based on their purchase history and the company's promotional newsletters|*...*|
 |[Stars temperature&#160;✨](14_stars_temperature)|Predicting the temperature of a star using a neural network based on a number of its parameters|*..., torch, skorch*|
+|[Accidents prediction&#160;🚗](15_crash_prediction)|Assessment of the risk of an accident along the route|*..., sqlalchemy, hyperopt*|
