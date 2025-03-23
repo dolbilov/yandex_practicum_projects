@@ -23,3 +23,4 @@
 |[Accidents prediction&#160;🚗](15_crash_prediction)|Assessment of the risk of an accident along the route|*..., sqlalchemy, hyperopt*|
 |[Taxi demand predicting&#160;🚕](16_taxi_demand_predicting)|Time series analysis for predicting taxi demand|*...*|
 |[Toxic comments&#160;🤬](17_toxic_comments)|Using NLP to determine the toxicity of comments|*..., nltk, spacy, torch, torchmetrics, transformers*|
+|[Age determination&#160;🔎](18_age_determination)|Using CV to determine the age of buyers|*tensorflow, keras*|
